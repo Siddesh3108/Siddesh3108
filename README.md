@@ -22,7 +22,7 @@ class SiddeshLohkare:
     def __init__(self):
         self.name        = "Siddesh Lohkare"
         self.username    = "Siddesh3108"
-        self.education   = "B.E. Computer Science — Final Year 🎓"
+        self.education   = "B.Tech . Computer Engineering — Final Year 🎓"
         self.roles       = ["AI / ML Engineer", "Backend Developer"]
         self.backend     = ["FastAPI", "Flask", "Node.js", "Gunicorn"]
         self.frontend    = ["React.js", "TailwindCSS", "Axios"]
