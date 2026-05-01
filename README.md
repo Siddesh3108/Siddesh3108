@@ -155,7 +155,7 @@ React (Vite) Dashboard  →  FastAPI Backend (OpenAPI docs)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=false&cache_seconds=1800" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddesh3108&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&hide_border=false" height="170"/>
 
 </div>
