@@ -182,7 +182,7 @@ React (Vite) Dashboard  →  FastAPI Backend (OpenAPI docs)
 
 <div align="center">
 
-[![Siddesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Siddesh3108&bg_color=0d1117&color=00d4ff&line=1a1aff&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siddesh's github activity graph](<img src="https://github-readme-stats.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&hide_border=false&v=1" height="170" alt="GitHub Stats"/>)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
