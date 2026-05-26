@@ -172,7 +172,7 @@ React (Vite) Dashboard  →  FastAPI Backend (OpenAPI docs)
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddesh3108&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddesh3108&theme=tokyonight&column=4&margin-w=10&margin-h=10&cache=86400)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
