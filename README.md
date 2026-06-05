@@ -155,8 +155,8 @@ React (Vite) Dashboard  →  FastAPI Backend (OpenAPI docs)
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight" height="170" />
-<img src="https://your-stats.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Siddesh3108&show_icons=true&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Siddesh3108&layout=compact&theme=tokyonight&border_color=00d4ff&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" height="170" />
 
 </div>
 
@@ -168,11 +168,15 @@ React (Vite) Dashboard  →  FastAPI Backend (OpenAPI docs)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddesh3108&theme=tokyonight&column=4&margin-w=10&margin-h=10&cache=86400)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub followers](https://img.shields.io/github/followers/Siddesh3108?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/Siddesh3108?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=Stars)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff6b35?style=for-the-badge&labelColor=0d1117)
+![AI Builder](https://img.shields.io/badge/AI%20Builder-LLMs%20%26%20Agents-00d4ff?style=for-the-badge&labelColor=0d1117)
+![Backend Dev](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Docker%20%7C%20Redis-1a1aff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
